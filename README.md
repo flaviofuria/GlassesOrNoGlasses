@@ -5,8 +5,8 @@ Three notebook have been produced: in one, the usual machine learning and data a
 <br>
 The three following badges allow to open and the execute the notebooks directly within Google Colaboratory:
 <br>
-Both datasets - No Pyspark: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/flaviofuria/GlassesOrNoGlasses/blob/main/glasses_no_glasses.ipynb)
+Both datasets - No Pyspark: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/flaviofuria/GlassesOrNoGlasses/blob/main/glasses_no_glasses.ipynb)
 <br>
-Numerical dataset - Pyspark-based: &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/flaviofuria/GlassesOrNoGlasses/blob/main/pyspark_numerical.ipynb)
+Numerical dataset - Pyspark-based: &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/flaviofuria/GlassesOrNoGlasses/blob/main/pyspark_numerical.ipynb)
 <br>
-Image dataset - Pyspark-based: &nbsp; &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/flaviofuria/GlassesOrNoGlasses/blob/main/pyspark_images.ipynb)
+Image dataset - Pyspark-based: &nbsp; &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/flaviofuria/GlassesOrNoGlasses/blob/main/pyspark_images.ipynb)
