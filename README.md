@@ -5,4 +5,6 @@ In this work we try to solve the [Glasses or No Glasses](https://www.kaggle.com/
 Click on this badge to open the notebook on colaboratory and be able to directly execute it.
 <br>
 <br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flaviofuria/GlassesOrNoGlasses/blob/main/glasses_or_no_glasses.ipynb)
+normale [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flaviofuria/GlassesOrNoGlasses/blob/main/glasses_or_no_glasses.ipynb)
+pyspark numerical [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/flaviofuria/GlassesOrNoGlasses/blob/main/pyspark_numerical.ipynb)
+pyspark images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/flaviofuria/GlassesOrNoGlasses/blob/main/pyspark_images.ipynb)
