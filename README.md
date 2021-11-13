@@ -1,5 +1,7 @@
 # GlassesOrNoGlasses
-This project has been carried out to fulfil an assignment for the “Algorithms for Massive Datasets” and “Statistical Methods for Machine Learning” courses that is based on the [Glasses or No Glasses](https://www.kaggle.com/jeffheaton/glasses-or-no-glasses) challenge by Kaggle, in which it is asked to predict if people are wearing glasses or not. Two datasets are provided: a numerical one, made of vectors of size 512 and an image dataset.<br>
+This project has been carried out to fulfil an assignment for the “Algorithms for Massive Datasets” and “Statistical Methods for Machine Learning” courses that is based on the [Glasses or No Glasses](https://www.kaggle.com/jeffheaton/glasses-or-no-glasses) challenge by Kaggle, in which it is asked to predict if people are wearing glasses or not. Two datasets are provided: a numerical one, made of vectors of size 512 and an image dataset.
+<br>
+<br>
 Three notebook have been produced: in one, the usual machine learning and data analysis tools have been used for both the dataset to solve the challenge in the best possible way. The other two (one for each dataset) contain a Pyspark-based implementation that still tries to solve the task but focusing on distribution too. 
 <br>
 <br>
