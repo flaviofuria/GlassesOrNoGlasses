@@ -2,7 +2,7 @@
 This project has been carried out to fulfil an assignment for the “Algorithms for Massive Datasets” and “Statistical Methods for Machine Learning” courses. It is based on the [Glasses or No Glasses](https://www.kaggle.com/jeffheaton/glasses-or-no-glasses) project by Kaggle, in which it is asked to predict if people are wearing glasses or not. Two datasets are provided: a numerical one, made of vectors of size 512 and an image dataset.
 <br>
 <br>
-Three notebook have been produced: in one, the usual machine learning and data analysis tools have been used for both the datasets to solve the task in the best possible way. The other two (one for each dataset) contain a Pyspark implementation of the majority of what has been achieved in the first one, but focusing on distribution too. 
+Three Python (3.7 version) notebooks have been produced: in one, the usual machine learning and data analysis tools have been used for both the datasets to solve the task in the best possible way. The other two (one for each dataset) contain a Pyspark implementation of the majority of what has been done in the first one, but focusing on distribution too. 
 <br>
 <br>
 The three following badges allow to open and the execute the notebooks directly within Google Colaboratory:
